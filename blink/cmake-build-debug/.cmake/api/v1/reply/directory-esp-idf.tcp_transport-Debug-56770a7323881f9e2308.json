@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "esp-idf/tcp_transport",
+		"source" : "/Users/emin/esp/esp-idf-v5.1.6/components/tcp_transport"
+	}
+}

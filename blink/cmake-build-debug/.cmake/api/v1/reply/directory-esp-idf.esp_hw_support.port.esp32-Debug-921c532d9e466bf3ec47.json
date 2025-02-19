@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "esp-idf/esp_hw_support/port/esp32",
+		"source" : "/Users/emin/esp/esp-idf-v5.1.6/components/esp_hw_support/port/esp32"
+	}
+}
